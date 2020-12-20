@@ -7,4 +7,6 @@ il comprend : une station météo (j'ai quelques difficultés avec les capteurs 
               eclairage exterieur                  
               Envoi de mail              
               envoi de fichier par FTP             
-							Affichage sur un LCD 4 lignes
+	      Affichage sur un LCD 4 lignes
+	      Appel telephonique en cas d'alarme mais la j'utilise un vieux telephone
+							
